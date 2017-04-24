@@ -1,0 +1,39 @@
+{
+	"HD":{
+		"CONVENCIONAIS":{
+			"CAPACIDADE":{
+				"500GB":{
+					"MARCAS":[
+
+					]
+				},
+				"1TB":{
+					"MARCAS":[
+
+					]
+				},
+				"2TB":{
+					"MARCAS":[
+
+					]
+				}
+			}
+		},
+		"SSD":{
+			"CAPACIDADE":[
+				"120GB"[
+
+				],
+				"240GB"[
+
+				],
+				"480GB"[
+
+				]
+			]
+		}
+	},
+	"RAM":[
+	
+	]
+}
